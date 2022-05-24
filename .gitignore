@@ -1,0 +1,6 @@
+*xml
+*html
+appium-screenshot*
+venv3/**/*
+__pycache__/**/*
+.vscode/*
